@@ -1,3 +1,2 @@
 # ReactJS
- 
-Repositório para estudos em ReactJS
+ Repositório para estudos em ReactJS
